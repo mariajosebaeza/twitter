@@ -8,10 +8,12 @@ header{
 	background-color: #1DA1F2;
 	width: 100%;
 	margin-top: 5%;
-	margin-bottom: 2%;
+	margin-bottom: 3%;
 }
 
 .buttonadd{
 	background-color:#1DA1F2;
 	color: #FFF;
+	margin-top: 1%;
+	margin-left: 3%;
 }
