@@ -1,0 +1,17 @@
+.txheader {
+	font-family: 'EB Garamond', serif;
+  	color: #FFF;  	
+  	display: inline-block;
+}
+
+header{
+	background-color: #1DA1F2;
+	width: 100%;
+	margin-top: 5%;
+	margin-bottom: 2%;
+}
+
+.buttonadd{
+	background-color:#1DA1F2;
+	color: #FFF;
+}
